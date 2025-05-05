@@ -26,8 +26,9 @@ Each example contains:
 - A medical question
 - A thought-through response explaining the reasoning behind the answer
 
+
 Example format:
-```json
+Json format - 
 {
   "instruction": "Please answer the following medical question.",
   "input": "A 45-year-old man presents with crushing chest pain. What is the next best step?",
